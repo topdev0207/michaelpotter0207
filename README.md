@@ -1,16 +1,14 @@
-### Hi there I am Michael Potter
+<h1 align="center"> Hello! I am Michael. 🔥 </h1> 
+<h3 align="center"> Senior Video Streaming & C/C++ Engineer </h3>
 
+# My Skills 📚
 
-**michaelpotter0207/michaelpotter0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✔️ Program language: C/C++, Java, Swift/Flutter, JS/TS\
+✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
+✔️ Video SDK: FFmpeg, GStreamer \
+✔️ Video Protocol: HLS, RTMP, RTSP, RTP \
+✔️ Video Conferencing: WebRTC, Twilio, Agora, Asterisk
 
-Here are some ideas to get you started:
+# Contact me - MichaelPotter ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+    michaelpotter1992@gmail.com
